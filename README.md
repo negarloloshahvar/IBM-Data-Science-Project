@@ -10,8 +10,9 @@ This course is part of the IBM Data Science Professional Certificate and the IBM
 * Extract data by using a Python library.
 * Perform specific tasks such as extracting data, web scraping, visualizing data, and creating a dashboard.
 * HTML of a basic web page, understand the Composition of an HTML Tag, understand HTML Trees, and understand HTML Tables.
+* Implementing Web Scraping in Python with BeautifulSoup.
 
-## Problem Defenition
+## Problem Defenition #1
 
 We are asked to find the name and salary of players in a National Basketball League, from the following webpage.
 
@@ -39,3 +40,23 @@ We are asked to find the name and salary of players in a National Basketball Lea
       Salary: 73,200,000
     </p>
   </body>
+
+## Problem Defenition #2
+
+<table>
+  <tr>
+    <td>Pizza Places</td>
+    <td>Orders</td>
+    <td>Slices</td>
+  </tr>
+  <tr>
+    <td>Domino Pizza</td>
+    <td>10</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Little Ceasars</td>
+    <td>12</td>
+    <td>144</td>
+  </tr>
+</table>
